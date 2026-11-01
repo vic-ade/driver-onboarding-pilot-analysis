@@ -1,0 +1,75 @@
+{
+  "notice": "ALL DATA AND NUMBERS ARE SYNTHETIC; NOT REAL-WORLD RESULTS",
+  "n_routes": 4800,
+  "n_drivers": 1200,
+  "n_sites": 24,
+  "late_route_did_pp": -12.75,
+  "retention_did_pp": 11.667,
+  "dispatch_did_pp": 2.75,
+  "completion_did_pp": -0.677,
+  "safety_score_did": -14.067,
+  "routes_table": [
+    {
+      "group": "Comparison",
+      "period": "Post",
+      "n_routes": 1200,
+      "late_rate": 20.333,
+      "dispatch_rate": 86.417,
+      "completion_pct": 98.145,
+      "safety_score": 795.564
+    },
+    {
+      "group": "Comparison",
+      "period": "Pre",
+      "n_routes": 1200,
+      "late_rate": 19.25,
+      "dispatch_rate": 84.667,
+      "completion_pct": 98.231,
+      "safety_score": 798.697
+    },
+    {
+      "group": "Pilot",
+      "period": "Post",
+      "n_routes": 1200,
+      "late_rate": 13.083,
+      "dispatch_rate": 91.583,
+      "completion_pct": 97.411,
+      "safety_score": 783.039
+    },
+    {
+      "group": "Pilot",
+      "period": "Pre",
+      "n_routes": 1200,
+      "late_rate": 24.75,
+      "dispatch_rate": 87.083,
+      "completion_pct": 98.174,
+      "safety_score": 800.239
+    }
+  ],
+  "drivers_table": [
+    {
+      "group": "Comparison",
+      "period": "Post",
+      "n_drivers": 300,
+      "day14_retention": 77.667
+    },
+    {
+      "group": "Comparison",
+      "period": "Pre",
+      "n_drivers": 300,
+      "day14_retention": 77.0
+    },
+    {
+      "group": "Pilot",
+      "period": "Post",
+      "n_drivers": 300,
+      "day14_retention": 83.333
+    },
+    {
+      "group": "Pilot",
+      "period": "Pre",
+      "n_drivers": 300,
+      "day14_retention": 71.0
+    }
+  ]
+}

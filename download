@@ -1,0 +1,15 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+*.pyc
+.DS_Store
+Thumbs.db
+# Never add confidential/company source files to this public repository.
+private/
+internal/
+raw/
+source/
+*.xlsx
+*.xls
